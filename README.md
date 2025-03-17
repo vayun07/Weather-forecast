@@ -29,3 +29,6 @@ Step 12: The model is evaluated for MAE (Mean absolute error)
 Step 13: The test data is used to predict the weather for the new year
 
 Step 14: An analysis is carried out and the data is plotted to validate the results and predictions
+
+![image](https://github.com/user-attachments/assets/d6b63893-66e0-4987-a283-81505737d565)
+
