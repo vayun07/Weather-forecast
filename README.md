@@ -1,4 +1,4 @@
-# Weather-forecast-with-machine-learning-integration
+# Weather forecast with machine learning integration
 
 This repository constitutes of Python project that performs Weather Forecasting based on the machine learning model and learning techniques. The project comprises of the use of several libraries such as Pandas to help with the data management and manipulation.
 
